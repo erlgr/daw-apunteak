@@ -15,10 +15,9 @@ kasu honetan `blog/post_list.html` deitzen den templatea existitzen ez dela esat
 Templates root **ez bada automatikoki betetzen**, sortu `templates` direktorioa proiektuaren erroan
 ![[5-2.jpg]]
 
-[[5- Bistak sortzen#Urlak|Saltatu modu manuala ->]]
-
 ### Modu manuala
 Sortu `templates` deitzen den direktorio bat prokektuaren erroan, eta hor barruan sortu hurrengo estruktura hau
 ![[5-3.jpg]]
 
-### Urlak
+
+### [[6- URLak|Hurrengo pausua ->]]
