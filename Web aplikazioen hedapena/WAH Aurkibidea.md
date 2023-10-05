@@ -16,5 +16,4 @@ ssh erlantz@192.168.73.123
 ### Azterketan
 - [[IIS]]
 - [[VirtualHost IISn]]
-- 
-
+- [[Hosts edo DNS Windows Serverren]]

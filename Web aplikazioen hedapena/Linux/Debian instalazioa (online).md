@@ -11,7 +11,7 @@ apt install nala
 ```
 
 ```
-nala install vim sudo
+nala install vim sudo openssh-server
 ```
 
 ### sare konfigurazioa (root)
@@ -55,7 +55,12 @@ ssh erlantz@192.168.73.123
 sudo nala install apache2
 ```
 
-### pakete gehiago instalatu (omz nahi baduzu)
+### pakete gehigarriak
+```
+sudo nala install tree net-tools
+```
+
+### pakete gehigarriak instalatu (omz nahi baduzu)
 ```
 sudo nala install zsh curl git
 ```
