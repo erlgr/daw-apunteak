@@ -18,7 +18,13 @@ sudo chmod 755 nireweb1
 `nireweb1` karpetan sartu zaitez eta sortu zure fitxategiak. Adibidez:
 ```
 cd nireweb1
-touch index.html
+sudo touch index.html
+```
+
+### Web-a editatzen
+Linuxetik editatu nahi badugu
+```
+sudo vim index.html
 ```
 
 ### Konfigurazioa sortzen
@@ -34,6 +40,13 @@ sudo cp 000-default.conf nireweb1.conf
 
  > 000-default galdu duzu? [[000-default.conf plantilla]]
  
+ Aldatu parametro hauek zuk nahi duzunarekin
+ ```
+ ServerName nireweb1.com
+ ServerAlias www.nireweb1.com
+ DocumentRoot /var/www/nireweb1
+ ```
+
 ### Web-a hosteatzen
 Hau dena amaitutakoan, default web orria desaktibatuko dugu eta berria aktibatuko dugu
 ```
@@ -51,3 +64,5 @@ sudo systemctl reload apache2
 
 ### Egiaztatzen funtzionatzen duela
 Windows-en egiaztatu nahi? Gogoratu [[Hosts fitxategia Windowsen|hosts fitxategia]] editatzea zure web berrian sartu baino lehen. Orri horrek konponbide batzuk ere ekartzen ditu ez badizu ondo funtzionatzen.
+
+## Funtzionatzen du? [[SSL apachen||Jarraitu SSL-rekin ->]]

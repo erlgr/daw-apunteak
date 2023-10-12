@@ -57,7 +57,7 @@ sudo nala install apache2
 
 ### pakete gehigarriak
 ```
-sudo nala install tree net-tools
+sudo nala install tree net-tools apache2-utils
 ```
 
 ### pakete gehigarriak instalatu (omz nahi baduzu)
