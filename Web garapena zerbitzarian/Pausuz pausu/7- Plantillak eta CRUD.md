@@ -1,3 +1,6 @@
+### CSS-a kargatzen
+Html-a idatzi baino lehen, gogoratu ```{% load static %}``` idaztea.
+
 ### Datuak ikusten
 Hasteko, idatzi `doc` html-ko plantilla bat sortzeko. orain, body-aren barruan egin edukiaren for bat
 ```

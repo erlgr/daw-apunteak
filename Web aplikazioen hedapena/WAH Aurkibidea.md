@@ -17,6 +17,6 @@ ssh erlantz@192.168.73.123
 ### Azterketa baino lehen
 - [[Windows Server instalazioa]]
 ### Azterketan
-- [[IIS]]
 - [[VirtualHost IISn]]
-- [[Hosts edo DNS Windows Serverren]]
+- [[SSL IISn]]
+

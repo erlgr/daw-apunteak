@@ -1,5 +1,4 @@
-> Windows Serverren zaude? [[Hosts edo DNS Windows Serverren]]
-### Windows 10
+### Windows 10 / Server 2019
 Aurrena ireki notepad administratzaile gisa.
 ![[hosts-1.jpg]]
 
@@ -9,6 +8,9 @@ C:\Windows\System32\drivers\etc
 ```
 
 hor barruan `hosts` fitxategia dago.
+
+> Ez duzu ikusten? Gogoratu hau `todos los arcihos`-era aldatzea
+![[hosts-2.png]]
 
 ## Oraindik ez badizu funtzionatzen, probatu hau
 
