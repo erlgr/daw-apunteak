@@ -7,7 +7,7 @@ IIS panelera sartzeko, joan Administrador del servidor>Herramientas>Administrado
 Zabaldu zure zerbitzariaren izena. Hor barruan, sitios izeneko karpeta bat ikusiko duzu. Egin eskuineko klik gainean eta Agregar sitio web sakatu.
 ![[ws-vhost-2.png]]
 Eta bete formularioa.
-![[ws-vhosts-3.png]]
+![[ws-vhost-3.png]]
 
 ### Konektatu baino lehen
 Ez ahaztu [[Hosts fitxategia Windowsen|hosts fitxategia]] editatzea! gehitu zure erregistro berriak.
